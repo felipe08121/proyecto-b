@@ -1,6 +1,7 @@
 # Repositorio de pruebas para ABC, grupo B 
 
 Autor: Juan Felipe Perafan Ramos
+
 Este es un repositorio de pruebas para el curso de ABC
 
 ## Este es un encabezado de nivel 2
@@ -27,4 +28,15 @@ Ejemplo de una lista numerada
 3. Bañarse
 4. Vestirse
 5. Desayunar
+
+Ejemplo de una lista con varios niveles - Lunas de los planetas 
+* Tierra
+  * Luna
+* Jupiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+  * Titan  
    
