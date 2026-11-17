@@ -45,4 +45,9 @@ Ejemplo de una lista con varios niveles - Lunas de los planetas
 - [x] Pagar los derechos
 - [x] Ir a la cita
 - [ ] Esperar a que llegue el documento 
+
+Simón Bolívar dijo: 
+
+> En el momento en que cesen los partidos
+> y se consolide la unión, yo bajare tranquilo del sepulcro  
       
