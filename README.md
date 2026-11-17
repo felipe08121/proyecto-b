@@ -70,6 +70,6 @@ F  |  F  |    F
 Remove-Item -recurse directorio-prueba
 ```
 # Ejemplos de emojis 
-:+1: ;octocat:camel: :grin: : :metal: 
+:+1: :octocat::camel: :grin: : :metal: 
 
       
