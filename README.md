@@ -69,5 +69,7 @@ F  |  F  |    F
 ```powershell
 Remove-Item -recurse directorio-prueba
 ```
+# Ejemplos de emojis 
+:+1: ;octocat:camel: :grin: : :metal: 
 
       
