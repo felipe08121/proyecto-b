@@ -16,10 +16,10 @@ Estos es _texto en cursiva_
 Y __*se pueden combinar*__
 
 Ejemplo de una lista de colores
-*Rojo
-*Verde
-*Blanco
-*Azul
+* Rojo
+* Verde
+* Blanco
+* Azul
 
 Ejemplo de una lista numerada 
 1. Levantarse
