@@ -9,6 +9,6 @@ Esto es texto normal
 ### Este es un encabezado de nivel 3 
 Aquí viene mas texto normal 
 
-Esto es *texto en negrillas* 
+Esto es **texto en negrillas** 
 Estos es _texto en cursiva_ 
-Y _*se pueden combinar*_
+Y __*se pueden combinar*__
