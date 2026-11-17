@@ -63,6 +63,11 @@ F  |  F  |    F
 # Ejemplo de código en Python 
   ```python
      print("Hola, este es un ejemplo de código")
-  ``` 
+  ```
+
+# Ejemplo de código en Powershell 
+```powershell
+Remove-Item -recurse directorio-prueba
+```
 
       
